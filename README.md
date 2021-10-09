@@ -1,1 +1,2 @@
-New Git
+#MyApp
+This is my app
